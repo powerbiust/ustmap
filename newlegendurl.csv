@@ -1,0 +1,10 @@
+Attribute,LegendURL
+light,https://raw.githubusercontent.com/powerbiust/ustmap/master/legendA1.bmp
+temperature,https://raw.githubusercontent.com/powerbiust/ustmap/master/legendB1.bmp
+humidity,https://raw.githubusercontent.com/powerbiust/ustmap/master/legendA1.bmp
+motion,https://raw.githubusercontent.com/powerbiust/ustmap/master/legendA1.bmp
+co2,https://raw.githubusercontent.com/powerbiust/ustmap/master/legendA1.bmp
+water_leakage,https://raw.githubusercontent.com/powerbiust/ustmap/master/legendC1.bmp
+battery,https://raw.githubusercontent.com/powerbiust/ustmap/master/legendB1.bmp
+rssi,https://raw.githubusercontent.com/powerbiust/ustmap/master/legendA1.bmp
+vdd,https://raw.githubusercontent.com/powerbiust/ustmap/master/legendA1.bmp
